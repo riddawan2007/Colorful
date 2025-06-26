@@ -1,0 +1,68 @@
+h1 {
+    color: #143258;
+    font-family:'Arial', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: underline;
+    line-height: 1.6;
+    background-color: rgba(84, 123, 253, 0.719);
+}
+p {
+    color: rgb(19, 18, 18);
+    font-size: 16px;
+    font-family:'Arial', sans-serif;
+    font-weight: bold;
+    line-height: 2;
+    text-align: center;
+    
+}
+
+#a1 {
+    color: blue;
+    background-color: rgb(212, 230, 238);
+    border: solid #143258;
+    text-align: center;
+    font-size: 20px;
+}
+#a2 {
+   color: blue;
+    background-color: rgb(212, 230, 238);
+    border: solid #143258;
+    text-align: center;
+    font-size: 20px;
+}
+#a3 {
+    color: blue;
+    background-color: rgb(212, 230, 238);
+    border: solid #143258;
+    text-align: center;
+    font-size: 20px;
+}
+
+body { 
+    background-color: #ffffff;
+}
+#i {
+    position:relative ;
+    left: 50%;
+    transform: translate(-50%);
+
+}
+#a4{
+    text-align: center;
+}
+
+#a5{
+    text-align: center;
+}
+
+#a6{
+    text-align: center;
+}
+#a29 {
+    color: rgba(2, 2, 43, 0.993);
+    background-color: rgb(212, 230, 238);
+    border: solid #143258;
+    text-align: center;
+    font-size: 20px;
+}
